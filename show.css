@@ -1,0 +1,44 @@
+td, th {
+    padding: 8px;
+  }
+  .icon {
+    margin-right: 20px; /* adjust as needed */
+  }
+  
+  .icon i {
+    font-size: 24px; /* adjust as needed */
+  }
+  .container {
+    position: absolute;
+    top: 30px;
+    bottom: 4px;
+    left: 0;
+  }
+table{
+    position: relative;
+    top: 100px;
+}  
+.btn{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+th{
+    background-color: black;
+    color: white;
+}
+th:hover{
+    background-color: white;
+    color: black;
+}
+  
+.text-light{
+    top: 30px;
+    color: white;
+}
+table{
+    margin: 10px;
+}
+fas fa-trash-alt{
+    background-color: darkmagenta;
+}
